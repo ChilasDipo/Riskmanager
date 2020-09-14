@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbdca380-233b-4e70-9e1c-cc25502f8c4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kapitel_2/Areal_af_rektangel.java" afterDir="false" />
+    <list default="true" id="dbdca380-233b-4e70-9e1c-cc25502f8c4f" name="Default Changelist" comment="Begyndte opgave areal beregning af rektangel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel_2/Areal_af_rektangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel_2/Areal_af_rektangel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Areal_af_rektangel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel_2.Areal_af_rektangel" />
+      <module name="Opgave_Java_Bog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kapitel_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -76,6 +89,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Areal_af_rektangel" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,8 +104,16 @@
       <option name="presentableId" value="Default" />
       <updated>1600069820035</updated>
       <workItem from="1600069821042" duration="268000" />
-      <workItem from="1600070689582" duration="2094000" />
+      <workItem from="1600070689582" duration="3527000" />
     </task>
+    <task id="LOCAL-00001" summary="Begyndte opgave areal beregning af rektangel">
+      <created>1600073724721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600073724721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +130,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Begyndte opgave areal beregning af rektangel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Begyndte opgave areal beregning af rektangel" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="499" y="258" key="Github.ShareDialog" timestamp="1600069902087">
       <screen x="0" y="0" width="1280" height="720" />
@@ -113,13 +143,49 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="398" y="65" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1600069911452" />
-    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1600069924273">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1600075116600">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600069924273" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1600075116600">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1600075116600">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1600075116600">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1600074061699">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1600074061699" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1600074061699">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1600074061699" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1600074061699">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1600074061699" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1600074061699">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1600074061699" />
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1600073728263">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600073728263" />
     <state x="458" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600070082147">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="458" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1600070082147" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600073700633">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1600073700633" />
   </component>
 </project>
