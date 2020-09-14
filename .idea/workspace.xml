@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbdca380-233b-4e70-9e1c-cc25502f8c4f" name="Default Changelist" comment="Begyndte opgave areal beregning af rektangel">
+    <list default="true" id="dbdca380-233b-4e70-9e1c-cc25502f8c4f" name="Default Changelist" comment="Addede input til beregneren">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kapitel_2/Areal_af_rektangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel_2/Areal_af_rektangel.java" afterDir="false" />
     </list>
@@ -104,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600069820035</updated>
       <workItem from="1600069821042" duration="268000" />
-      <workItem from="1600070689582" duration="3527000" />
+      <workItem from="1600070689582" duration="3667000" />
     </task>
     <task id="LOCAL-00001" summary="Begyndte opgave areal beregning af rektangel">
       <created>1600073724721</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600073724721</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Addede input til beregneren">
+      <created>1600075149346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600075149346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +139,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Begyndte opgave areal beregning af rektangel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Begyndte opgave areal beregning af rektangel" />
+    <MESSAGE value="Addede input til beregneren" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addede input til beregneren" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="258" key="Github.ShareDialog" timestamp="1600069902087">
@@ -143,22 +151,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="398" y="65" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1600069911452" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1600075116600">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1600075256034">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1600075116600">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1600075256034" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1600075256034">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1600075116600">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1600075256034" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1600075256034">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1600075116600">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1600075256034" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1600075256034">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1600075116600" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1600075256034" />
     <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1600074061699">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -175,10 +183,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1600074061699" />
-    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1600073728263">
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1600075159471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600073728263" />
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600075159471" />
     <state x="458" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600070082147">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

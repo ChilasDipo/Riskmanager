@@ -10,7 +10,7 @@ public class Areal_af_rektangel {
         Scanner input2 = new Scanner(System.in);
         int Linput2 =  Integer.parseInt(input.next());
 
-        System.out.println("Aralet af rektangel med sider 2 og 5 er  " + Beregner(Linput1,Linput2));
+        System.out.println("Aralet af rektangel med sider " + Linput1 + " og " + Linput2 + " er " + Beregner(Linput1,Linput2));
         System.out.println("Aralet af rektangel med sider 6 og 12 er  " + Beregner(6,12));
     }
 
